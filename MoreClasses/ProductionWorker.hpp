@@ -1,10 +1,3 @@
-//
-//  ProductionWorker.hpp
-//  CH15Assignment
-//
-//  Created by Mazin Haider on 11/12/23.
-//
-
 #ifndef ProductionWorker_hpp
 #define ProductionWorker_hpp
 
