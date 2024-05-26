@@ -1,6 +1,3 @@
-// Mazin Haider
-// CIS 223-401
-// December 3, 2023
 /* This programs include the template class for the binary tree. It also includes 2 added member functions. The first function returns the height of the tree(the number of level it contains). The second functoin class the first function
  */
 
