@@ -1,10 +1,3 @@
-//
-//  BinaryTree.h
-//  chapter21HW
-//
-//  Created by Mazin Haider on 12/3/23.
-//
-
 #ifndef BinaryTree_h
 #define BinaryTree_h
 
