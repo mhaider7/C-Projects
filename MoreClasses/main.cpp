@@ -1,6 +1,3 @@
-// Mazin Haider
-// CIS 223-401
-// November 1, 2023
 /* This program creates a class called Employee and declares generic members which can define any employee (their name, number, and hire date). Then, a class ProductionWorker is created which is a more specific form of an employee. ProductionWorker has its own members and inherits the members of the Employee class. The main function shows the ProductionWorker class on display after creating an object of the class and initializing its member variable.
 */
 
