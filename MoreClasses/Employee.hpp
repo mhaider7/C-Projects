@@ -1,10 +1,3 @@
-//
-//  Employee.hpp
-//  CH15Assignment
-//
-//  Created by Mazin Haider on 11/12/23.
-//
-
 #ifndef Employee_hpp
 #define Employee_hpp
 
