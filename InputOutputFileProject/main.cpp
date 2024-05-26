@@ -1,6 +1,3 @@
-// Mazin Haider
-// September 28, 2023
-// CIS 223-401
 // Description: This program prints out contents of a joke file and a punchline file. A function is called to read in contents of the joke file and displays its contents. Another function is called which reads in the last line fo the punchline file by seeking to the end of the file and backing up to the beginnng of the last line. It them displays the last line.
 
 #include <iostream>
